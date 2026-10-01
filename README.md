@@ -1,4 +1,4 @@
-# Gemini API Call using Python
+# Gemini API Call
 
 A simple Python project demonstrating how to make an API call to Google Gemini and generate an AI response.
 
