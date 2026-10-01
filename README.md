@@ -1,5 +1,3 @@
-Yep, the previous one was basically a small textbook. Here’s a **short GitHub-ready README**:
-
 ````markdown
 # Gemini API Call using Python
 
