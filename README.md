@@ -45,6 +45,5 @@ Never upload your actual `.env` file or API key to GitHub.
 
 **Kirtika Sinha**
 B.Tech CSE (AIML)
-
 ```
 ```
