@@ -36,5 +36,3 @@ The program sends a prompt to Gemini and displays the generated response in the 
 ## Security
 
 Never upload your actual `.env` file or API key to GitHub.
-**Kirtika Sinha**
-B.Tech CSE (AIML)
