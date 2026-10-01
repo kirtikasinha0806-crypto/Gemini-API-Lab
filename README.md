@@ -1,4 +1,4 @@
-# Gemini API Call
+# Gemini API Call using Python
 
 A simple Python project demonstrating how to make an API call to Google Gemini and generate an AI response.
 
@@ -10,6 +10,18 @@ A simple Python project demonstrating how to make an API call to Google Gemini a
 * Gemini API
 
 ## Setup
+
+Create a virtual environment:
+
+```bash
+python -m venv venv
+```
+
+Activate it on Windows:
+
+```powershell
+.\venv\Scripts\Activate.ps1
+```
 
 Install the required packages:
 
@@ -31,8 +43,9 @@ python app.py
 
 ## Example
 
-The program sends a prompt to Gemini and displays the generated response in the terminal.
+The program sends a prompt to a Gemini model and displays the generated response in the terminal.
 
 ## Security
 
 Never upload your actual `.env` file or API key to GitHub.
+
